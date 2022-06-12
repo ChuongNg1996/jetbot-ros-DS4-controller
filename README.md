@@ -18,7 +18,7 @@ A simple implementation of DUALSHOCK 4 controller for Jetbot
    ```
 * Run the ROS launch file:
    ```sh
-   
+   roslaunch jetbot_ds4_manual jetbot_ds4_manual.launch
    ```
 ## API
 To be updated
