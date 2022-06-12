@@ -16,6 +16,7 @@ A simple implementation of DUALSHOCK 4 controller for Jetbot
    cd ..
    catkin_make
    ```
+* Install [DS4 Driver for ROS](http://wiki.ros.org/ds4_driver).
 * Run the ROS launch file:
    ```sh
    roslaunch jetbot_ds4_manual jetbot_ds4_manual.launch
