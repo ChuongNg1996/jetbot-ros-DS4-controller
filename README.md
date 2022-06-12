@@ -12,11 +12,14 @@ A simple implementation of DUALSHOCK 4 controller for Jetbot
    ```sh
    cd ~/catkin_ws/src
    git clone https://github.com/dusty-nv/jetbot_ros -b melodic
-   git clone https://github.com/ChuongNg1996/jetbot-ros-object-following
+   git clone [https://github.com/ChuongNg1996/jetbot-ros-object-following](https://github.com/ChuongNg1996/jetbot-ros-DS4-controller)
    cd ..
    catkin_make
    ```
-
+* Run the ROS launch file:
+   ```sh
+   
+   ```
 ## API
 To be updated
 
